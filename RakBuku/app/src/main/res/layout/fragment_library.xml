@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipe_main_library"
+    tools:context=".fragment.LibraryFragment">
+    <com.indonesia3gger.root.rakbuku.view.LoadMoreListView
+        android:id="@+id/lv_item_library"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@android:color/transparent">
+    </com.indonesia3gger.root.rakbuku.view.LoadMoreListView>
+</android.support.v4.widget.SwipeRefreshLayout>

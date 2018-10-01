@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/RakBuku/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5cd2496d5adc3747515d536cacd11d9098314447">
+        <dex dex="/root/AndroidStudioProjects/RakBuku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_447dfdf9b923462feddb68cdcda85aef9828ff7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/85c561f6510446b22af2e2726080ddfa92eb35f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/root/AndroidStudioProjects/RakBuku/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc878a1ae1a6a23ba82c6259b7ab6a4e86e233ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/RakBuku/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/AndroidStudioProjects/RakBuku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b6c85c9abac7423ce26000c9487b5f5b991ef56e/classes.dex" />
+    </item>
+
+</items>

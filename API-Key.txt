@@ -1,0 +1,4 @@
+GoogleMapAPI-key:
+AIzaSyAAQNLtwGaacyZyqoD9qAQsITFPofQ-azU 
+GooglePlaces-API:
+AIzaSyAixJm2TKfw18Am4JmztnZe0SpRUruLCwI
